@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "name": "FindMostFrequentKeyInArray",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Lee <myleevictor@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}

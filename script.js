@@ -20,4 +20,4 @@ function find_most_frequent(arr) {
 
 find_most_frequent([1, 1, "2", "2", "2", 3, 4, -1, -1, -1, -1, -1, -1]);
 
-module.exports = find_most_frequent
+module.exports = find_most_frequent;
